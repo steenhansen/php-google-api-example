@@ -1,19 +1,29 @@
 
 # Google API calls Example in PHP:
 
-## https://google-api-example.herokuapp.com/guestSignIn.php
-### Automatically sign in with 'guest_account' of test@gmail.com
+## Access live example
+Automatically sign in with 'guest_account' of test@gmail.com
+
+    https://google-api-example.herokuapp.com/guestSignIn.php
 
 
-## https://google-api-example.herokuapp.com/index.html
-### Explanations and links to Google doc and sheet used
+Explanations and links to Google doc and sheet used
 
-## https://google-api-example.herokuapp.com/login.php
-### Sign in with a "real" Google account that exists in the Google sheet of users
+    https://google-api-example.herokuapp.com/index.html
+
+Sign in with a "real" Google account that exists in the Google sheet of users
+
+    https://google-api-example.herokuapp.com/login.php
    
    
-## https://google-api-example.herokuapp.com/signInFromGoogle.php?gmail=test@gmail.com
-### Sign in url
+Sign in via url
+
+    https://google-api-example.herokuapp.com/signInFromGoogle.php?gmail=test@gmail.com
+
+## Information
+Sheet/Document/Email/Authorization Classes
+
+    php-google-api-example/Google_Api
 
 
 To install composer libraries
