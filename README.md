@@ -14,6 +14,7 @@ Sign in with a "real" Google account that exists in the Google sheet of users
 Sign in via URL       
 [https://google-api-example.herokuapp.com/signInFromGoogle.php?gmail=test@gmail.com](https://google-api-example.herokuapp.com/signInFromGoogle.php?gmail=test@gmail.com)
 
+![visual explanation](https://nyc3.digitaloceanspaces.com/steen/google-api.png)
 
 ## Information
 Sheet/Document/Email/Authorization Classes
