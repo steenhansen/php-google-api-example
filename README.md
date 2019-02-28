@@ -14,6 +14,9 @@ Sign in with a "real" Google account that exists in the Google sheet of users
 Sign in via URL       
 [https://google-api-example.herokuapp.com/signInFromGoogle.php?gmail=test@gmail.com](https://google-api-example.herokuapp.com/signInFromGoogle.php?gmail=test@gmail.com)
 
+
+The locked but visible Google sheet https://docs.google.com/spreadsheets/d/1vhce-ziBi6wneqJrxd7Zhyqth8ZLHMJHot1wxgK_T7k/edit#gid=0 that is read and written to.
+
 ![visual explanation](https://github.com/steenhansen/php-google-api-example/blob/master/google-api.png)
 ## Information
 Sheet/Document/Email/Authorization Classes
