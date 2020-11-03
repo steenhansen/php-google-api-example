@@ -16,7 +16,7 @@ class GoogleInfo
 
         $client_info = $this->readJson($client_id_json);
 
-print "client_info == " . $client_info . " == ";
+print "client_id_json == " . $client_id_json . " == ";
 
         $this->client_id = $client_info['web']['client_id'];
         $this->project_id = $client_info['web']['project_id'];
