@@ -10,7 +10,7 @@ Basically, a PHP site would have used a Google spreadsheet to authorize who coul
 
 For instance, steenhansen1942@gmail.com, can log in and view general information. He can also view the 'Docs Manual' whereas test@gmail.com cannot.
 
-The PHP program could change the values in the Google spreadsheet, so as to delete or change a user's name.
+The PHP program could change the values in the Google spreadsheet, so as to delete or change a user's name. But the PHP program would never know any passwords.
 
 ## Google API calls Example in PHP:
 
