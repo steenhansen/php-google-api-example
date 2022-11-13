@@ -6,7 +6,7 @@ This code does not work anymore. And [https://google-api-example.herokuapp.com](
 
 When this program was first developed, websites did not need to go through an approval process to grant read/write access to password protected Google Docs and sheets. An updating Heroku server caused the Google credentials to be invalidated.
 
-Basically, a PHP site would have used a Google spreadsheet to authorize who could log into a PHP program, and what system rights the user has access to.
+Basically, a PHP site used to use a Google spreadsheet to authorize who could log into a PHP program, and what system rights the user has access to.
 
 For instance, steenhansen1942@gmail.com, can log in and view general information. He can also view the 'Docs Manual' whereas test@gmail.com cannot.
 
